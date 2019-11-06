@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* body {
+   
+} */
+
+.btn.btn-secondary {
+    color: #101010;
+    background-color: #ffffff;
+    border-color: #6c757d;
+}

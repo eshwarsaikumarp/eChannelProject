@@ -1,0 +1,52 @@
+.navbar {
+    background-color: rgba(173, 0, 0, 1);
+    color: #fff;
+    height: 50px;
+}
+
+.navbar-brand h1 {
+    color: #fff;
+    float: left;
+    margin: 5px;
+    margin-left: 10px;
+    font-size: 37px;
+}
+
+.isolate-title {
+    text-align: center;
+    line-height: 3;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.form-block-1 ul {
+    margin: 0;
+    padding: 0;
+}
+
+.form-block-1 li {
+    display: inline-block;
+    margin: 0 3px;
+}
+
+.form-block-1 ul div {
+    width: 240px
+}
+
+.advOptions-List-inline ul {
+    margin: 0;
+    padding: 0;
+}
+
+.advOptions-List-inline li {
+    display: inline-block;
+    margin: 2px 3px;
+}
+
+/* .user-info{
+    float: right;;
+} */
+
+/* .helpTag{
+    float: right;
+} */

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1234,
+    "name": "jack",
+    "role": "Admin",
+    "username": "jackbail",
+    "password": "jack123",
+    "ticketDetails": [
+      {
+        "ticketId": "456",
+        "name": "ghj",
+        "desc": "fghjk",
+        "status": "Resolve",
+        "priority": "high"
+      },
+      {
+        "ticketId": "789",
+        "name": "cvb",
+        "desc": "fghjk",
+        "status": "Resolve",
+        "priority": "high"
+      },
+      {
+        "ticketId": "675",
+        "name": "xsc",
+        "desc": "fghjk",
+        "status": "Resolve",
+        "priority": "high"
+      }
+    ]
+  },
+  {
+    "id": 2356,
+    "name": "jhon",
+    "role": "Standard",
+    "username": "jhonredf",
+    "password": "jhon123",
+    "ticketDetails": [
+      {
+        "ticketId": "456",
+        "desc": "fghjk",
+        "name": "xsc",
+        "status": "Resolve",
+        "priority": "high"
+      },
+      {
+        "ticketId": "789",
+        "desc": "fghjk",
+        "name": "xsc",
+        "status": "Resolve",
+        "priority": "high"
+      },
+      {
+        "ticketId": "675",
+        "desc": "fghjk",
+        "name": "xsc",
+        "status": "Resolve",
+        "priority": "high"
+      }
+    ]
+  }
+]
